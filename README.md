@@ -1,2 +1,2 @@
-![Certificacao](imagens/certificao-dio-bank.pdf)
+![Certificacao](imagens/certificacao.png)
 
