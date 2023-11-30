@@ -1,2 +1,2 @@
-![Certificacao](imagens/certificacao.png)
+![Certificacao](images/certificacao.png)
 
